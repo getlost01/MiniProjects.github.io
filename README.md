@@ -5,4 +5,4 @@
 <br>Project 2: **ThemeClock**   -> https://portfolio-de-aagam.netlify.app/miniprojects/themeclock
 <br>Project 3: **NotePad**      -> https://portfolio-de-aagam.netlify.app/miniprojects/notepad
 <br>Project 4: **GithubPofile** -> https://portfolio-de-aagam.netlify.app/miniprojects/githubprofile
-<br>Project 4: **CountingApp** -> https://portfolio-de-aagam.netlify.app/miniprojects/countingapp/
+<br>Project 5: **CountingApp** -> https://portfolio-de-aagam.netlify.app/miniprojects/countingapp/
